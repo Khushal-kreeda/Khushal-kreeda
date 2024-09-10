@@ -74,7 +74,7 @@
 <!----------------------------------{ reference links }--------------------------------->
 
 [stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=Khushal-kreeda&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal-kreeda&theme=dark&hide_border=false&count_private=false&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,jupyter+notebook,
+[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal-ag&theme=dark&hide_border=false&count_private=false&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,jupyter+notebook,
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=Khushal-kreeda&theme=dark&hide_border=false#gh-light-mode-only
   
 <!----------------------------------{ language badges }--------------------------------->
@@ -107,5 +107,5 @@
  
  <!----------------------------------{ contribution stats }--------------------------------->
 
-[snake]: https://github.com/Khushal-ag/Khushal-kreeda/blob/output/snake.svg
+[snake]: https://github.com/Khushal-ag/Khushal-ag/blob/output/snake.svg
 [graph]: https://github-readme-activity-graph.vercel.app/graph?username=Khushal-kreeda&theme=react-dark&hide_border=false&area=true
